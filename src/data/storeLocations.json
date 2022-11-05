@@ -1,0 +1,107 @@
+{
+    "Locations":[
+        {
+            "id": 1,
+            "city": "Danville",
+            "address": "Riverside Dr",
+            "staff": {
+                "Owner": "Josh",
+                "manager": "Kimberly",
+                "floorWorker": "Niko"
+            },
+            "inventory":[
+                {
+                    "id": 1,
+                    "sneakerName": "Nike Dunk SB",
+                    "brand": "Nike"
+                },
+                {
+                    "id": 2,
+                    "sneakerName": "Nike Dunk SB",
+                    "brand": "Nike"
+                },
+                {
+                    "id": 3,
+                    "sneakerName": "Nike Dunk SB",
+                    "brand": "Nike"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "city": "Lynchburg",
+            "address": "Florida ave",
+            "staff": {
+                "Owner": "Josh",
+                "manager": "Kimberly",
+                "floorWorker": "Niko"
+            },
+            "inventory":[
+                {
+                    "id": 1,
+                    "sneakerName": "Nike Dunk SB",
+                    "brand": "Nike"
+                },
+                {
+                    "id": 2,
+                    "sneakerName": "Nike Dunk SB",
+                    "brand": "Nike"
+                },
+                {
+                    "id": 3,
+                    "sneakerName": "Nike Dunk SB",
+                    "brand": "Nike"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "city": "Martinsville",
+            "address": "Florida ave",
+            "staff": {
+                "Owner": "Josh",
+                "manager": "Kimberly",
+                "floorWorker": "Niko"
+            },
+            "inventory":[
+                {
+                    "id": 1,
+                    "sneakerName": "Nike Dunk SB",
+                    "brand": "Nike"
+                },
+                {
+                    "id": 2,
+                    "sneakerName": "Nike Dunk SB",
+                    "brand": "Nike"
+                },
+                {
+                    "id": 3,
+                    "sneakerName": "Nike Dunk SB",
+                    "brand": "Nike"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "city": "South Boston",
+            "address": "North Main St",
+            "staff": {
+                "Owner": "Josh",
+                "manager": "Kimberly",
+                "floorWorker": "Niko"
+            },
+            "inventory":[
+                {
+                    "id": 1,
+                    "sneakerName": "Nike Dunk SB",
+                    "brand": "Nike"
+                }
+            ]
+        }
+    ]
+}
+
+
+
+
+ 

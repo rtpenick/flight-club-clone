@@ -1,0 +1,28 @@
+[
+    {
+        "brand": "Nike",
+        "model": [
+            {
+                "name": "Air Force 1",
+                "price": 89.99
+            },
+            {
+                "name": "Air Max 1",
+                "price": 89.99
+            }
+        ]
+    },
+    {   
+        "brand": "Nike",
+        "price": 89.99,
+        "model": [
+            "Air Force 1",
+            "Air Max 1",
+            "Air Max 90",
+            "Air Max 95",
+            "Air Max 97",
+            "Air Max 270",
+            "Air Vapormax",
+        ]
+    }
+]

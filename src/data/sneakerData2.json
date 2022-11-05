@@ -1,0 +1,118 @@
+[
+    {
+        "id": 1,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Off-White x Air Force 1 Low 'Brooklyn",
+        "price": 89.99
+    },
+    {
+        "id": 2,
+        "brand": "Nike",
+        "model": "Air Max 1",
+        "name": "Patta x Air Max 1 'Monarch'",
+        "price": 184
+    },
+    {
+        "id": 3,
+        "brand": "Nike",
+        "model": "Air Max 90",
+        "name": "Off-White x Air Max 90 'Black'",
+        "price": 395
+    },
+    {
+        "id": 4,
+        "brand": "Nike",
+        "model": "Air Max 95",
+        "name": "Air Max 95 OG 'Neon' 2020",
+        "price": 179
+    },
+    {
+        "id": 5,
+        "brand": "Nike",
+        "model": "Air Max 97",
+        "price": 89.99
+    },
+    {   
+        "id": 6,
+        "brand": "Nike",
+        "model": "Air Max 270",
+        "price": 89.99
+    },
+    {
+        "id": 7,
+        "brand": "Nike",
+        "model": "Air Vapormax",
+        "price": 89.99
+    },
+    {
+        "id": 8,
+        "brand": "Converse",
+        "model": "Chuck 70",
+        "name": "Comme des Garçons PLAY x Chuck 70 High 'Steel Gray'",
+        "price": 105
+    },
+    {
+        "id": 9,
+        "brand": "adidas",
+        "model": "Yeezy Boost 350",
+        "name": "Yeezy Boost 350 V2 'Salt'",
+        "price": 216
+    },
+    {
+        "id": 10,
+        "brand": "adidas",
+        "model": "Yeezy Boost 350",
+        "name": "Yeezy Boost 350 V2 'Slate'",
+        "price": 203
+    },
+    {
+        "id": 11,
+        "brand": "adidas",
+        "model": "Yeezy Boost 350",
+        "name": "Yeezy Boost 350 V2 'Bone",
+        "price": 203
+    },
+    {
+        "id": 12,
+        "brand": "adidas",
+        "model": "Yeezy Boost 350",
+        "name": "Yeezy Boost 350 V2 'Dazzling Blue",
+        "price": 198
+    },
+    {
+        "id": 13,
+        "brand": "adidas",
+        "model": "Yeezy Boost 350",
+        "name": "Yeezy Boost 350 V2 'Bred'",
+        "price": 241
+    },
+    {
+        "id": 14,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1",
+        "name": "Air Jordan 1 Retro High OG 'Patent Bred'",
+        "price": 164
+    },
+    {
+        "id": 15,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1",
+        "name": "Air Jordan 1 Retro High OG 'Yellow Toe'",
+        "price": 157
+    },
+    {
+        "id": 16,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1",
+        "name": "Air Jordan 1 Retro High OG 'Stage Haze'",
+        "price": 191
+    },
+    {
+        "id": 17,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1",
+        "name": "Air Jordan 1 Retro High OG 'University Blue'",
+        "price": 280
+    }
+]
