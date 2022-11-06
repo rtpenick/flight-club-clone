@@ -18,7 +18,7 @@ const FilterModels = ({selectedModels,models}) => {
                 <>
                     <input 
                       type="checkbox" 
-                      onChange={selectedModel} 
+                      onInput={selectedModel} 
                       id={item}
                       value={item}
                     />

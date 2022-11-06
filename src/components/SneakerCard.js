@@ -16,6 +16,7 @@ const SneakerCard = ({sneakers}) => {
         <div className="sneakerCard_details">
           <p>Name: {sneakers.name}</p>
           <p>Brand {sneakers.brand}</p>
+          <p> {sneakers.price}</p>
         </div>
     </div>
   )

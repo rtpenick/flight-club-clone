@@ -12,14 +12,13 @@ import FilterModels from './FilterModels'
 
 
 const ShoeStore = () => {
-  const [data, setData] = useState(sneakerData)
   const [selectedBrand, setSelectedBrand] = useState([])
   const [selectedModel, setSelectedModel] = useState([])
 
-  const brands = data.map(item => item.brand)
+  const brands = sneakerData.map(item => item.brand)
   const filteredBrands = [...new Set(brands)]
 
-  const models = data.map(item => item.model)
+  const models = sneakerData.map(item => item.model)
   const filteredModels = [...new Set(models)]
 
 
@@ -30,7 +29,10 @@ const ShoeStore = () => {
         </div>
 
         <div className="ShoeStore__filter">
-          <FilterBrands brands={filteredBrands}/>
+          <FilterBrands 
+            brands={filteredBrands}
+          />
+          
           <FilterModels 
             selectedModels={setSelectedModel} 
             models={filteredModels}
@@ -38,7 +40,7 @@ const ShoeStore = () => {
         </div>
 
         <div className="ShoeStore__sneakerSection">
-            <SneakerList selectedModels={selectedModel}/>
+            <SneakerList initialData={sneakerData} selectedModels={selectedModel}/>
         </div>
     </div>
   )

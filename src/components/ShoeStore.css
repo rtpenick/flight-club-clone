@@ -57,7 +57,7 @@
     /* grid-column: 2 / span 4; */
 
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     /* grid-template-columns: 1fr 1fr 1fr 1fr; */
 }
 
