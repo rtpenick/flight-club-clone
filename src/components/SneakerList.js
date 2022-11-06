@@ -20,6 +20,7 @@ const SneakerList = ({initialData, selectedModels}) => {
         // console.log("Sneaker list- SelectedModels: " + selectedModels)
     },[selectedModels])
 
+    
     const sneakerList = [
         {
             id: 1,
