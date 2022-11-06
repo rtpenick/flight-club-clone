@@ -7,6 +7,7 @@ import SneakerList from './SneakerList'
 import sneakerData from '../data/sneakerData2.json'
 import FilterBrands from './FilterBrands'
 import FilterModels from './FilterModels'
+import Footer from './Footer'
 
 
 
@@ -42,6 +43,8 @@ const ShoeStore = () => {
         <div className="ShoeStore__sneakerSection">
             <SneakerList initialData={sneakerData} selectedModels={selectedModel}/>
         </div>
+
+        {/* <Footer/> */}
     </div>
   )
 }

@@ -5,6 +5,9 @@ import Uptempo from '../assets/images/uptempos.jpeg'
 import Vapormax from '../assets/images/NikeVapormax.jpeg'
 import NikeDunkSB from '../assets/images/NikeDunkSB.jpeg'
 
+import './ShoeStore.css'
+
+
 const SneakerList = ({initialData, selectedModels}) => {
     // if selectedModels and selected brands are empty then show random list of sneakers 
     // or show the sneakers as they are in the list
@@ -67,7 +70,7 @@ const SneakerList = ({initialData, selectedModels}) => {
     ))
 
   return (
-    <div>
+    <div className="sneakers">
         {sneakers}
     </div>
   )

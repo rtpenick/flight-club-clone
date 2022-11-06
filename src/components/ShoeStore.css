@@ -1,14 +1,15 @@
 *{
     margin: 0;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
 }
 
 .ShoeStore{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: repeat(12, 1fr);
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: 1fr 1fr 1fr ;
     height: 100vh;
     background-color: #f9f9f9;
+    overflow: auto;
 }
 
 
@@ -53,28 +54,46 @@
 
 /* Sneaker Section */
 .ShoeStore__sneakerSection{
-    /* grid-auto-flow: row; */
-    /* grid-column: 2 / span 4; */
+    grid-column: 2/ 7;
+    max-height: 500px;
+    width: 100%;
+}
 
+.sneakers{
     display: flex;
-    flex-direction: row;
-    /* grid-template-columns: 1fr 1fr 1fr 1fr; */
+    flex-wrap: wrap;
 }
 
 .sneakerCard{
-    max-width: 350px;
+    height: 400px;
+    max-width: 275px;
     margin: 15px 20px;
+    padding: 10px;
     background-color: #fff;
+    text-align: left;
 }
 
+.brandName{
+    color: rgb(165, 165, 165);
+    margin-top: 2em;
+}
+
+.price{
+    font-weight: bold;
+    margin-top: 2em;
+}
+
+.sneakerModelName{
+    word-wrap: break-word;
+    font-weight: lighter;
+    margin-top: .5em;
+}
 
 /* filters */
 .filters{
     margin: 20px 25px;
     box-sizing: border-box;
-        /* display: flex;
-        flex-direction: column; */
-        grid-row: 2 / span 4;
+    grid-row: 2;
 
     font-size: 12px;
 }
@@ -123,4 +142,13 @@ details[open] summary {
 
 .filterBy_brand input{
     margin: 10px 5px;
+}
+
+
+/* footer */
+footer{
+    /* grid-column: 2/ 7; */
+
+    grid-column: 1 / span 6;
+    grid-row: 5;
 }
