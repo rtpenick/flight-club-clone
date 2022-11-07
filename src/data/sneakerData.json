@@ -1,28 +1,163 @@
 [
     {
+        "id": 1,
         "brand": "Nike",
-        "model": [
-            {
-                "name": "Air Force 1",
-                "price": 89.99
-            },
-            {
-                "name": "Air Max 1",
-                "price": 89.99
-            }
-        ]
+        "model": "Air Force 1",
+        "name": "Off-White x Air Force 1 Low 'Brooklyn",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/167870/1.jpg",
+        "price": 89.99
+    },
+    {
+        "id": 2,
+        "brand": "Nike",
+        "model": "Air Max 1",
+        "name": "Patta x Air Max 1 'Monarch'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/283228/1.jpg",
+        "price": 184
+    },
+    {
+        "id": 3,
+        "brand": "Nike",
+        "model": "Air Max 90",
+        "name": "Off-White x Air Max 90 'Black'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/806237/1.jpg",
+        "price": 395
+    },
+    {
+        "id": 4,
+        "brand": "Nike",
+        "model": "Air Max 95",
+        "name": "Air Max 95 OG 'Neon' 2020",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/181132/1.jpg",
+        "price": 179
+    },
+    {
+        "id": 5,
+        "brand": "Nike",
+        "model": "Air Max 97",
+        "name": "Air Max 97 'Triple Black'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/806759/1.jpg",
+        "price": 128
     },
     {   
+        "id": 6,
         "brand": "Nike",
-        "price": 89.99,
-        "model": [
-            "Air Force 1",
-            "Air Max 1",
-            "Air Max 90",
-            "Air Max 95",
-            "Air Max 97",
-            "Air Max 270",
-            "Air Vapormax",
-        ]
+        "model": "Air Max 270",
+        "name": "Air Max 270 'University Red'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/163629/1.jpg",
+        "price": 98.00
+    },
+    {
+        "id": 7,
+        "brand": "Nike",
+        "model": "Air Vapormax",
+        "name": "Off-White x Air VaporMax 'Part 2'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/803238/1.jpg",
+        "price": 598.99
+    },
+    {
+        "id": 8,
+        "brand": "Converse",
+        "model": "Chuck 70",
+        "name": "Comme des Garçons PLAY x Chuck 70 High 'Steel Gray'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/271376/1.jpg",
+        "price": 105
+    },
+    {
+        "id": 9,
+        "brand": "adidas",
+        "model": "Yeezy Boost 350",
+        "name": "Yeezy Boost 350 V2 'Salt'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/339344/1.jpg",
+        
+        "price": 216
+    },
+    {
+        "id": 10,
+        "brand": "adidas",
+        "model": "Yeezy Boost 350",
+        "name": "Yeezy Boost 350 V2 'Yecheil Non-Reflective'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/156799/1.jpg",
+        "price": 260
+    },
+    {
+        "id": 11,
+        "brand": "adidas",
+        "model": "Yeezy Boost 350",
+        "name": "Yeezy Boost 350 V2 'Red'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/201536/1.jpg",
+        "price": 250
+    },
+    {
+        "id": 12,
+        "brand": "adidas",
+        "model": "Yeezy Boost 350",
+        "name": "Yeezy Boost 350 V2 'Dazzling Blue",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/296150/1.jpg",
+        "price": 258
+    },
+    {
+        "id": 13,
+        "brand": "adidas",
+        "model": "Yeezy Boost 350",
+        "name": "Yeezy Boost 350 V2 'Bred'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/800389/1.jpg",
+        "price": 241
+    },
+    {
+        "id": 14,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1",
+        "name": "Air Jordan 1 Retro High OG 'Patent Bred'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/272669/1.jpg",
+        "price": 164
+    },
+    {
+        "id": 15,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1",
+        "name": "Air Jordan 1 Retro High OG 'Yellow Toe'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/323570/1.jpg",
+        "price": 157
+    },
+    {
+        "id": 16,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1",
+        "name": "Air Jordan 1 Retro High OG 'Stage Haze'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/299069/1.jpg",
+        "price": 191
+    },
+    {
+        "id": 17,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "name": "Air Jordan 4 Retro 'Infrared'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/296982/1.jpg",
+        "price": 257
+    },
+    {
+        "id": 18,
+        "brand": "Nike",
+        "model": "Air Vapormax",
+        "name": "Cactus Plant Flea Market x Wmns Air VaporMax 2019",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/141857/1.jpg ",
+        "price": 707.99
+    },
+    {
+        "id": 19,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "name": "Air Jordan 4 Retro 'Red Thunder'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/274477/1.jpg",
+        "price": 300
+    },
+    {
+        "id": 18,
+        "brand": "Nike",
+        "model": "Air Vapormax",
+        "name": "Off-White x Air VaporMax 'The Ten'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/801892/1.jpg",
+        "price": 875
     }
 ]

@@ -9,6 +9,11 @@ import './ShoeStore.css'
 
 
 const SneakerList = ({initialData, selectedModels}) => {
+    const [shoes,setShoes] = useState(initialData)
+    const [currentPage,setCurrentPage] = useState(1)
+    const [shoesPerPage, setShoesPerPage] = useState(24)
+
+
     // if selectedModels and selected brands are empty then show random list of sneakers 
     // or show the sneakers as they are in the list
 
@@ -64,8 +69,13 @@ const SneakerList = ({initialData, selectedModels}) => {
         }
     ]
 
+    // Get current shoes
+    const indexOfLastShoe = currentPage * shoesPerPage
+    const indexOfFirstShoe = indexOfLastShoe - shoesPerPage
+    const currentShoes = shoes.slice(indexOfFirstShoe, indexOfLastShoe)
 
-    const sneakers = initialData.map(sneaker => (
+    // const sneakers = initialData.map(sneaker => (
+    const sneakers = currentShoes.map(sneaker => (
         <SneakerCard sneakers={sneaker}/>
     ))
 
