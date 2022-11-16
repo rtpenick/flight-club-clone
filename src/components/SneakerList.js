@@ -1,5 +1,6 @@
 import React, {useState,useEffect} from 'react'
 import SneakerCard from './SneakerCard'
+import Pagination from './Pagination'
 
 import Uptempo from '../assets/images/uptempos.jpeg'
 import Vapormax from '../assets/images/NikeVapormax.jpeg'
@@ -11,7 +12,8 @@ import './ShoeStore.css'
 const SneakerList = ({initialData, selectedModels}) => {
     const [shoes,setShoes] = useState(initialData)
     const [currentPage,setCurrentPage] = useState(1)
-    const [shoesPerPage, setShoesPerPage] = useState(24)
+    // This number should be a multiple of 4. The page look better with 4 shoes in a row
+    const [shoesPerPage, setShoesPerPage] = useState(8)
 
 
     // if selectedModels and selected brands are empty then show random list of sneakers 
@@ -26,62 +28,40 @@ const SneakerList = ({initialData, selectedModels}) => {
 
     useEffect(() =>{
         // console.log("Sneaker list- SelectedModels: " + selectedModels)
-    },[selectedModels])
+        console.log("Current page: " + currentPage)
+    },[currentPage])
 
     
-    const sneakerList = [
-        {
-            id: 1,
-            name: 'Uptempo',
-            brand: 'Nike',
-            price: 89,
-            image: Uptempo
-        },
-        {   id: 2,
-            name: "Nike Dunk SB",
-            brand: "Nike",
-            price: 89,
-            image: NikeDunkSB
-        },
-        {   id: 3,
-            name: "Vapormax",
-            brand: "Nike",
-            price: 258,
-            image: Vapormax
-        },
-        {
-            id: 4,
-            name: 'Uptempo',
-            brand: 'Nike',
-            image: Uptempo
-        },
-        {   id: 5,
-            name: "Nike Dunk SB",
-            brand: "Nike",
-            price: 112,
-            image: NikeDunkSB
-        },
-        {   id: 6,
-            name: "Vapormax",
-            brand: "Nike",
-            price: 145,
-            image: Vapormax
-        }
-    ]
-
     // Get current shoes
     const indexOfLastShoe = currentPage * shoesPerPage
     const indexOfFirstShoe = indexOfLastShoe - shoesPerPage
+    // Determines the amount of shoes will be shown
     const currentShoes = shoes.slice(indexOfFirstShoe, indexOfLastShoe)
+
+
+    // this function is being passed as a prop
+    const paginate = pageNumber =>  setCurrentPage(pageNumber)
+
+
+    function testingClick(num){
+        console.log("Clicked: " + num)
+    }
+
+
+    // function paginate(pageNumber){
+    //     console.log("Selected page #: " + pageNumber)
+    // }
+
 
     // const sneakers = initialData.map(sneaker => (
     const sneakers = currentShoes.map(sneaker => (
-        <SneakerCard sneakers={sneaker}/>
+        <SneakerCard key={sneaker.id} sneakers={sneaker}/>
     ))
 
   return (
     <div className="sneakers">
         {sneakers}
+        <Pagination shoesPerPage={shoesPerPage} totalShoes={shoes.length} paginate={paginate} testingClick={testingClick}/>
     </div>
   )
 }

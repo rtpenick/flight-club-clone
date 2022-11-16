@@ -21,6 +21,7 @@ const FilterModels = ({selectedModels,models}) => {
                       onInput={selectedModel} 
                       id={item}
                       value={item}
+                      key={item.id}
                     />
                     <label htmlFor={item}>{item}</label>
                     <br></br>

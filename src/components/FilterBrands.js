@@ -8,8 +8,8 @@ const FilterBrands = ({brands}) => {
           <form>
             {brands.map(item =>(
                 <>
-                    <input type="checkbox" id={item}></input>
-                    <label htmlFor={item}>{item}</label>
+                    <input type="checkbox" id={item} key={item.id}></input>
+                    <label htmlFor={item} key={item.id}>{item}</label>
                     <br></br>
                 </>
             ))}
