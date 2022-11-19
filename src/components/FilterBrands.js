@@ -1,6 +1,10 @@
 import React from 'react'
 
 const FilterBrands = ({brands}) => {
+
+  // sort brands alphabetically
+  brands.sort()
+  
   return (
     <div className="filters">
         <details className="filterBy_brand">

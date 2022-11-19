@@ -11,7 +11,7 @@ const Pagination = ({shoesPerPage,totalShoes, paginate, testingClick}) => {
     for(let i =1; i <= Math.ceil(totalShoes/shoesPerPage); i++) {
       // get correct amount of page numbers then add them to pageNumbers array
       pageNumbers.push(i)
-      console.log(pageNumbers)
+      // console.log(pageNumbers)
     }
 
   return (

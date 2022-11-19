@@ -2,12 +2,18 @@ import React from 'react'
 
 const FilterModels = ({selectedModels,models}) => {
 
+  // sort models alphabetically
+  models.sort()
+
   function selectedModel(e){
     console.log("Selected model: " + e.target.value)
-    // setSelectedModel(prev => [...prev, selectedModel])
+    selectedModels(prev => [...prev, e.target.value])
 
-    selectedModels(e.target.value)
+    // selectedModels(e.target.value)
+    // selectedModels((prev) => e.target.value)
   }
+
+  
 
   return (
     <div className="filters">
