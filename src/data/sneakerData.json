@@ -11,9 +11,9 @@
         "id": 2,
         "brand": "Nike",
         "model": "Air Max 1",
-        "name": "Patta x Air Max 1 'Monarch'",
-        "image": "https://cdn.flightclub.com/2200/TEMPLATE/283228/1.jpg",
-        "price": 184
+        "name": "CLOT x Air Max 1 'Kiss Of Death CHA'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/262763/1.jpg",
+        "price": 100
     },
     {
         "id": 3,
@@ -57,10 +57,10 @@
     },
     {
         "id": 8,
-        "brand": "Converse",
-        "model": "Chuck 70",
-        "name": "Comme des Garçons PLAY x Chuck 70 High 'Steel Gray'",
-        "image": "https://cdn.flightclub.com/2200/TEMPLATE/271376/1.jpg",
+        "brand": "Nike",
+        "model": "Dunk",
+        "name": "Dunk Low 'Michigan' 2021",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/253587/1.jpg",
         "price": 105
     },
     {
@@ -159,5 +159,157 @@
         "name": "Off-White x Air VaporMax 'The Ten'",
         "image": "https://cdn.flightclub.com/2200/TEMPLATE/801892/1.jpg",
         "price": 875
+    },
+    {
+        "id": 21,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "name": "Air Jordan 4 Retro SE 'Black Canvas'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/311175/1.jpg",
+        "price": 265
+    },
+    {
+        "id": 22,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 12",
+        "name": "Air Jordan 12 Retro 'Flu Game' 2016",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/012394/1.jpg",
+        "price": 300
+    },
+    {
+        "id": 23,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 12",
+        "name": "Air Jordan 12 Retro 'Playoff' 2022",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/292065/1.jpg",
+        "price": 300
+    },
+    {
+        "id": 24,
+        "brand": "Nike",
+        "model": "Air Max 90",
+        "name": "Air Max 90 Surplus 'Cargo Khaki'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/246195/1.jpg",
+        "price": 139
+    },
+    {
+        "id": 25,
+        "brand": "Nike",
+        "model": "Air Max 90",
+        "name": "Air Max 90 Surplus 'Wolf Grey Pink Salt'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/286296/1.jpg",
+        "price": 262
+    },
+    {
+        "id": 26,
+        "brand": "Nike",
+        "model": "Air Max 90",
+        "name": "Air Max 90 Surplus 'Midnight Navy'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/292623/1.jpg",
+        "price": 253
+    },
+    {
+        "id": 27,
+        "brand": "Vans",
+        "model": "Sk8",
+        "name": "Marvel x SK8-Hi 'Deadpool'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/213731/1.jpg",
+        "price": 180
+    },
+    {
+        "id": 28,
+        "brand": "Vans",
+        "model": "Sk8",
+        "name": "SK8-Hi CAP LX Reissue 'White Checkerboard'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/806323/1.jpg",
+        "price": 180
+    },
+    {
+        "id": 29,
+        "brand": "Vans",
+        "model": "Sk8",
+        "name": "Patta x Vault Sk8-Hi Reissue VLT LX 'Mean Eyed Cat - Black'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/276608/1.jpg",
+        "price": 103
+    },
+    {
+        "id": 30,
+        "brand": "Vans",
+        "model": "Sk8",
+        "name": "David Bowie x Sk8-Hi Platform 2 'Ziggy Stardust'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/138956/1.jpg",
+        "price": 279
+    },
+    {
+        "id": 31,
+        "brand": "Vans",
+        "model": "Sk8",
+        "name": "Harry Potter x Sk8-Hi Platform RB 'Morsmordre Dark Arts'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/146640/1.jpg",
+        "price": 272
+    },
+    {
+        "id": 32,
+        "brand": "Vans",
+        "model": "Sk8",
+        "name": "A Tribe Called Quest x Sk8-Hi 'Mellow Yellow'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/803654/1.jpg",
+        "price": 269
+    },
+    {
+        "id": 33,
+        "brand": "Nike",
+        "model": "Blazer",
+        "name": "Blazer Mid Premium SB 'Acclimate Pack - Rattan Black'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/299557/1.jpg",
+        "price": 69
+    },
+    {
+        "id": 34,
+        "brand": "Nike",
+        "model": "Blazer",
+        "name": "Off-White x Blazer Mid 'Grim Reapers'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/804758/1.jpg",
+        "price": 703
+    },
+    {
+        "id": 35,
+        "brand": "Nike",
+        "model": "Blazer",
+        "name": "Blazer Mid Premium SB 'Acclimate'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/283423/1.jpg",
+        "price": 78
+    },
+    {
+        "id": 36,
+        "brand": "Nike",
+        "model": "Air More Uptempo",
+        "name": "Air More Uptempo '96 'Split'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/295905/1.jpg",
+        "price": 100
+    },
+    {
+        "id": 37,
+        "brand": "Nike",
+        "model": "Air More Uptempo",
+        "name": "Air More Uptempo 'Black White' 2020",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/245332/1.jpg",
+        "price": 263
+    },
+    {
+        "id": 38,
+        "brand": "Nike",
+        "model": "Air More Uptempo",
+        "name": "Air More Uptempo 'Georgetown'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/805395/1.jpg",
+        "price": 110
+    },
+    {
+        "id": 39,
+        "brand": "Nike",
+        "model": "Air More Uptempo",
+        "name": "Air More Uptempo '96 'Copy Paste - Iron Grey'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/307113/1.jpg",
+        "price": 129
     }
 ]

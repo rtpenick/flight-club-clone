@@ -3,15 +3,11 @@ import React from 'react'
 const Pagination = ({shoesPerPage,totalShoes, paginate, testingClick}) => {
     const pageNumbers = []
 
-    console.log("Shoesper page: " + shoesPerPage)
-    console.log("total shoes: " + totalShoes)
-
 
     // this takes in the total amount of items to be displayed (shoes in this application) and divide them by the max amount of items to be displayed per page
     for(let i =1; i <= Math.ceil(totalShoes/shoesPerPage); i++) {
       // get correct amount of page numbers then add them to pageNumbers array
       pageNumbers.push(i)
-      // console.log(pageNumbers)
     }
 
   return (
