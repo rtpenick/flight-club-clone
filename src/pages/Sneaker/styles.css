@@ -1,0 +1,21 @@
+.Sneaker{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    padding: 10px 30px;
+    outline: none;
+    border: none;
+    width: 150px;
+}
+.priceBtn{
+    color: #fff;
+    background-color: red;
+    
+}
+
+.priceBtn:hover{
+    background-color: rgb(230, 8, 8);
+}

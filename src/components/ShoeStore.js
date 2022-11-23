@@ -14,6 +14,9 @@ import SneakerNav from './SneakerNav'
 
 
 const ShoeStore = () => {
+  const header = "SHOP ALL SNEAKERS"
+  const description = "The vault goes deep at Flight Club. Shop for new releases from must-have names like Air Jordan, Nike, New Balance and Yeezy, along with the latest collaborations from brands like Vans, Reebok, Converse, ASICS, and more."
+
   const [query, setQuery] = useState("")
   const [selectedBrand, setSelectedBrand] = useState([])
   const [selectedModel, setSelectedModel] = useState([])
@@ -28,10 +31,10 @@ const ShoeStore = () => {
   return (
     <div className="ShoeStore">
         <div className="ShoeStore__nav">
-          <SneakerNav/>
+          {/*<SneakerNav/>*/}
         </div>
         <div className="ShoeStore__banner">
-            <Banner/>
+            <Banner header={header} description={description}/>
         </div>
 
         <div className="ShoeStore__filter">

@@ -1,4 +1,5 @@
 import React, {useState} from 'react'
+import { Link } from "react-router-dom";
 import './ShoeStore.css'
 
 
@@ -23,11 +24,11 @@ const SneakerNav = () => {
             <h3>Flight Club</h3>
         </div>
         <div className="SneakerNav__links">
-            <a href="/">Sneaker</a>
-            <a href="/">FC Apparel</a>
+            <a href="/">Sneakers</a>
+            <Link to="/Apparel">FC Apparel</Link>
             <a href="/">FC Fridays</a>
             <a href="/">Stores</a>
-            <a href="/">Account</a>
+            <a href="/Account">Account</a>
         </div>
     </div>
   )

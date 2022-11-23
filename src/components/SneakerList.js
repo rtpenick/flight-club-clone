@@ -33,9 +33,6 @@ const SneakerList = ({initialData, selectedModels}) => {
         }else{
             setShoes(result)
         }
-
-        
-
     },[selectedModels])
     
     
@@ -44,7 +41,6 @@ const SneakerList = ({initialData, selectedModels}) => {
     const indexOfFirstShoe = indexOfLastShoe - shoesPerPage
     // Determines the amount of shoes will be shown
     currentShoes = shoes.slice(indexOfFirstShoe, indexOfLastShoe)
-
 
     // this function is being passed as a prop
     const paginate = pageNumber =>  setCurrentPage(pageNumber)
@@ -55,11 +51,11 @@ const SneakerList = ({initialData, selectedModels}) => {
     }
 
 
-
     const sneakers = currentShoes.map(sneaker => (
         <SneakerCard 
             key={sneaker.id} 
             sneakers={sneaker}
+            sneakerName={sneaker.name}
         />
     ))
 

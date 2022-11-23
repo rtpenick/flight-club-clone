@@ -311,5 +311,149 @@
         "name": "Air More Uptempo '96 'Copy Paste - Iron Grey'",
         "image": "https://cdn.flightclub.com/2200/TEMPLATE/307113/1.jpg",
         "price": 129
+    },
+    {
+        "id": 40,
+        "brand": "Nike",
+        "model": "Air Jordan 4",
+        "name": "Air Jordan 4 Retro 'Black Cat' 2020",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/149400/1.jpg",
+        "price": 927
+    },
+    {
+        "id": 41,
+        "brand": "Nike",
+        "model": "Air Jordan 4",
+        "name": "Air Jordan 4 Retro OG 'Bred' 2019",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/139813/1.jpg",
+        "price": 543
+    },
+    {
+        "id": 42,
+        "brand": "Nike",
+        "model": "Air Jordan 13",
+        "name": "Air Jordan 13 Retro 'Flint' 2020",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/156807/1.jpg",
+        "price": 273
+    },
+    {
+        "id": 43,
+        "brand": "Nike",
+        "model": "Air Jordan 13",
+        "name": "Air Jordan 13 Retro 'Bred' 2017",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/801581/1.jpg",
+        "price": 329
+    },
+    {
+        "id": 44,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 03 'Hufquake'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/020586/1.jpg",
+        "price": 696
+    },
+    {
+        "id": 45,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 '07 'Wolf Grey Kumquat'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/326486/1.jpg",
+        "price": 185
+    },
+    {
+        "id": 46,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 Low 'Shibuya Halloween'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/159953/1.jpg",
+        "price": 166
+    },
+    {
+        "id": 47,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 '07 LV8 'Overbranding'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/804341/1.jpg",
+        "price": 582
+    },
+    {
+        "id": 48,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 LV8 'Go The Extra Smile",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/290713/1.jpg",
+        "price": 153
+    },
+    {
+        "id": 49,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 '07 LV8 'Oil Green'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/273525/1.jpg",
+        "price": 247
+    },
+    {
+        "id": 50,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 '07 'Somos Familia'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/339920/1.jpg",
+        "price": 125
+    },
+    {
+        "id": 51,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 Experimental 'Halloween'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/284792/1.jpg",
+        "price": 178
+    },
+    {
+        "id": 52,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 React 'Black White'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/333545/1.jpg",
+        "price": 189
+    },
+    {
+        "id": 53,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 Low Experimental 'Parcel Service'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/264023/1.jpg",
+        "price": 150
+    },
+    {
+        "id": 54,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 LV8 Utility PS 'Olive Green'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/165049/1.jpg",
+        "price": 189
+    },
+    {
+        "id": 55,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 React 'Naija'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/207272/1.jpg",
+        "price": 144
+    },
+    {
+        "id": 56,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 '07 LV8 'Floral Pack'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/806881/1.jpg",
+        "price": 329
+    },
+    {
+        "id": 57,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 Fontanka 'Doernbecher 2022'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/310876/1.jpg",
+        "price": 144
     }
 ]

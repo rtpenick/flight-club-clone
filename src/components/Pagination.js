@@ -11,8 +11,8 @@ const Pagination = ({shoesPerPage,totalShoes, paginate, testingClick}) => {
     }
 
   return (
-    <nav>
-      <ul className="pagination">
+    <nav className="pagination">
+      <ul>
         {pageNumbers.map(number => (
           <li key={number} className="page-item">
             <a onClick={() => paginate(number)} href="#" className="page-link">
