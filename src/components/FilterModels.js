@@ -23,7 +23,7 @@ const FilterModels = ({selectedModels,models}) => {
                       value={item}
                       key={item.id}
                     />
-                    <label htmlFor={item}>{item}</label>
+                    <label htmlFor={item} key={item.id}>{item}</label>
                     <br></br>
                 </>
              ))}

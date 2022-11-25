@@ -33,6 +33,7 @@ const ShoeStore = () => {
         <div className="ShoeStore__nav">
           {/*<SneakerNav/>*/}
         </div>
+        
         <div className="ShoeStore__banner">
             <Banner header={header} description={description}/>
         </div>
