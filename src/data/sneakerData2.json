@@ -1,0 +1,515 @@
+[
+    {
+        "id": 1,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Off-White x Air Force 1 Low 'Brooklyn",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/167870/1.jpg",
+        "price": 89.99,
+        "sizes": [4,4.5,5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 2,
+        "brand": "Nike",
+        "model": "Air Max 1",
+        "name": "CLOT x Air Max 1 'Kiss Of Death CHA'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/262763/1.jpg",
+        "price": 100,
+        "sizes": [4,4.5,5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 3,
+        "brand": "Nike",
+        "model": "Air Max 90",
+        "name": "Off-White x Air Max 90 'Black'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/806237/1.jpg",
+        "price": 395,
+        "sizes": [4,4.5,5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 4,
+        "brand": "Nike",
+        "model": "Air Max 95",
+        "name": "Air Max 95 OG 'Neon' 2020",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/181132/1.jpg",
+        "price": 179,
+        "sizes": [4,4.5,5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 5,
+        "brand": "Nike",
+        "model": "Air Max 97",
+        "name": "Air Max 97 'Triple Black'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/806759/1.jpg",
+        "price": 128,
+        "sizes": [5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11]
+    },
+    {   
+        "id": 6,
+        "brand": "Nike",
+        "model": "Air Max 270",
+        "name": "Air Max 270 'University Red'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/163629/1.jpg",
+        "price": 98.00,
+        "sizes": [7,7.5,8,9,9.5,10.5,11,12,12.5]
+    },
+    {
+        "id": 7,
+        "brand": "Nike",
+        "model": "Air Vapormax",
+        "name": "Off-White x Air VaporMax 'Part 2'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/803238/1.jpg",
+        "price": 598.99,
+        "sizes": [6,6.5,7,7.5,8,9,9.5,10,10.5]
+    },
+    {
+        "id": 8,
+        "brand": "Nike",
+        "model": "Dunk",
+        "name": "Dunk Low 'Michigan' 2021",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/253587/1.jpg",
+        "price": 105,
+        "sizes": [5,5.5,6,6.5,7,7.5,8,9,9.5,10.5,11]
+    },
+    {
+        "id": 9,
+        "brand": "Adidas",
+        "model": "Yeezy Boost 350",
+        "name": "Yeezy Boost 350 V2 'Salt'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/339344/1.jpg",
+        "price": 216,
+        "sizes": [6,6.5,7,7.5,8,9,9.5,10.5,11]
+    },
+    {
+        "id": 10,
+        "brand": "Adidas",
+        "model": "Yeezy Boost 350",
+        "name": "Yeezy Boost 350 V2 'Yecheil Non-Reflective'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/156799/1.jpg",
+        "price": 260,
+        "sizes": [6,6.5,7,7.5,8]
+    },
+    {
+        "id": 11,
+        "brand": "Adidas",
+        "model": "Yeezy Boost 350",
+        "name": "Yeezy Boost 350 V2 'Red'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/201536/1.jpg",
+        "price": 250,
+        "sizes": [6,6.5,7,7.5,8,9,9.5,10,10.5,11,11.5]
+    },
+    {
+        "id": 12,
+        "brand": "Adidas",
+        "model": "Yeezy Boost 350",
+        "name": "Yeezy Boost 350 V2 'Dazzling Blue",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/296150/1.jpg",
+        "price": 258,
+        "sizes": [7.5,8,9,9.5,10.5,11]
+    },
+    {
+        "id": 13,
+        "brand": "Adidas",
+        "model": "Yeezy Boost 350",
+        "name": "Yeezy Boost 350 V2 'Bred'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/800389/1.jpg",
+        "price": 241,
+        "sizes": [6,6.5,7,7.5,8,9,9.5,10.5,11]
+    },
+    {
+        "id": 14,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1",
+        "name": "Air Jordan 1 Retro High OG 'Patent Bred'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/272669/1.jpg",
+        "price": 164,
+        "sizes": [6,6.5,7,7.5,8,9,9.5,10.5,11]
+    },
+    {
+        "id": 15,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1",
+        "name": "Air Jordan 1 Retro High OG 'Yellow Toe'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/323570/1.jpg",
+        "price": 157,
+        "sizes": [10,10.5,11]
+    },
+    {
+        "id": 16,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1",
+        "name": "Air Jordan 1 Retro High OG 'Stage Haze'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/299069/1.jpg",
+        "price": 191,
+        "sizes": [6,7,7.5,8,9]
+    },
+    {
+        "id": 17,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "name": "Air Jordan 4 Retro 'Infrared'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/296982/1.jpg",
+        "price": 257,
+        "sizes": [6,8,9,10.5,11]
+    },
+    {
+        "id": 18,
+        "brand": "Nike",
+        "model": "Air Vapormax",
+        "name": "Cactus Plant Flea Market x Wmns Air VaporMax 2019",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/141857/1.jpg ",
+        "price": 707.99,
+        "sizes": [4,4.5,5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12]
+    },
+    {
+        "id": 19,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "name": "Air Jordan 4 Retro 'Red Thunder'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/274477/1.jpg",
+        "price": 300,
+        "sizes": [6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12]
+    },
+    {
+        "id": 20,
+        "brand": "Nike",
+        "model": "Air Vapormax",
+        "name": "Off-White x Air VaporMax 'The Ten'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/801892/1.jpg",
+        "price": 875,
+        "sizes": [4,4.5,5,6,7,7.5,8,8.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 21,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "name": "Air Jordan 4 Retro SE 'Black Canvas'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/311175/1.jpg",
+        "price": 265,
+        "sizes": [4,4.5,5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 22,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 12",
+        "name": "Air Jordan 12 Retro 'Flu Game' 2016",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/012394/1.jpg",
+        "price": 300,
+        "sizes": [7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 23,
+        "brand": "Air Jordan",
+        "model": "Air Jordan 12",
+        "name": "Air Jordan 12 Retro 'Playoff' 2022",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/292065/1.jpg",
+        "price": 300,
+        "sizes": [4,4.5,5,5.5,6,7,7.5,10,10.5,11,11.5,12]
+    },
+    {
+        "id": 24,
+        "brand": "Nike",
+        "model": "Air Max 90",
+        "name": "Air Max 90 Surplus 'Cargo Khaki'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/246195/1.jpg",
+        "price": 139,
+        "sizes": [6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 25,
+        "brand": "Nike",
+        "model": "Air Max 90",
+        "name": "Air Max 90 Surplus 'Wolf Grey Pink Salt'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/286296/1.jpg",
+        "price": 262,
+        "sizes": [4,4.5,5,5.5,6,8.5,9,9.5,10,10.5,11,11.5,12,12.5]
+    },
+    {
+        "id": 26,
+        "brand": "Nike",
+        "model": "Air Max 90",
+        "name": "Air Max 90 Surplus 'Midnight Navy'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/292623/1.jpg",
+        "price": 253,
+        "sizes": [6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 27,
+        "brand": "Vans",
+        "model": "Sk8",
+        "name": "Marvel x SK8-Hi 'Deadpool'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/213731/1.jpg",
+        "price": 180,
+        "sizes": [4,4.5,5,5.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 28,
+        "brand": "Vans",
+        "model": "Sk8",
+        "name": "SK8-Hi CAP LX Reissue 'White Checkerboard'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/806323/1.jpg",
+        "price": 180,
+        "sizes": [4,4.5,5,5.5,6,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 29,
+        "brand": "Vans",
+        "model": "Sk8",
+        "name": "Patta x Vault Sk8-Hi Reissue VLT LX 'Mean Eyed Cat - Black'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/276608/1.jpg",
+        "price": 103,
+        "sizes": [5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,]
+    },
+    {
+        "id": 30,
+        "brand": "Vans",
+        "model": "Sk8",
+        "name": "David Bowie x Sk8-Hi Platform 2 'Ziggy Stardust'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/138956/1.jpg",
+        "price": 279,
+        "sizes": [4,4.5,5,5.5,6,7,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 31,
+        "brand": "Vans",
+        "model": "Sk8",
+        "name": "Harry Potter x Sk8-Hi Platform RB 'Morsmordre Dark Arts'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/146640/1.jpg",
+        "price": 272,
+        "sizes": [5,5.5,6,7,9,9.5,10,10.5,11,11.5,12,12.5,13]
+    },
+    {
+        "id": 32,
+        "brand": "Vans",
+        "model": "Sk8",
+        "name": "A Tribe Called Quest x Sk8-Hi 'Mellow Yellow'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/803654/1.jpg",
+        "price": 269,
+        "sizes": [4,4.5,5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12]
+    },
+    {
+        "id": 33,
+        "brand": "Nike",
+        "model": "Blazer",
+        "name": "Blazer Mid Premium SB 'Acclimate Pack - Rattan Black'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/299557/1.jpg",
+        "price": 69,
+        "sizes": [4,4.5,5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11]
+    },
+    {
+        "id": 34,
+        "brand": "Nike",
+        "model": "Blazer",
+        "name": "Off-White x Blazer Mid 'Grim Reapers'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/804758/1.jpg",
+        "price": 703,
+        "sizes": [4,4.5,5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 35,
+        "brand": "Nike",
+        "model": "Blazer",
+        "name": "Blazer Mid Premium SB 'Acclimate'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/283423/1.jpg",
+        "price": 78,
+        "sizes": [4,4.5,5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 36,
+        "brand": "Nike",
+        "model": "Air More Uptempo",
+        "name": "Air More Uptempo '96 'Split'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/295905/1.jpg",
+        "price": 100,
+        "sizes": [5,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5]
+    },
+    {
+        "id": 37,
+        "brand": "Nike",
+        "model": "Air More Uptempo",
+        "name": "Air More Uptempo 'Black White' 2020",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/245332/1.jpg",
+        "price": 263,
+        "sizes": [5,5.5,6,7,7.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 38,
+        "brand": "Nike",
+        "model": "Air More Uptempo",
+        "name": "Air More Uptempo 'Georgetown'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/805395/1.jpg",
+        "price": 110,
+        "sizes": [7,7.5,8,8.5,9,9.5,10,10.5,12.5,13]
+    },
+    {
+        "id": 39,
+        "brand": "Nike",
+        "model": "Air More Uptempo",
+        "name": "Air More Uptempo '96 'Copy Paste - Iron Grey'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/307113/1.jpg",
+        "price": 129,
+        "sizes": [6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 40,
+        "brand": "Nike",
+        "model": "Air Jordan 4",
+        "name": "Air Jordan 4 Retro 'Black Cat' 2020",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/149400/1.jpg",
+        "price": 927,
+        "sizes": [5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5]
+    },
+    {
+        "id": 41,
+        "brand": "Nike",
+        "model": "Air Jordan 4",
+        "name": "Air Jordan 4 Retro OG 'Bred' 2019",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/139813/1.jpg",
+        "price": 543,
+        "sizes": [8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 42,
+        "brand": "Nike",
+        "model": "Air Jordan 13",
+        "name": "Air Jordan 13 Retro 'Flint' 2020",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/156807/1.jpg",
+        "price": 273,
+        "sizes": [7,7.5,8,8.5,9,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 43,
+        "brand": "Nike",
+        "model": "Air Jordan 13",
+        "name": "Air Jordan 13 Retro 'Bred' 2017",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/801581/1.jpg",
+        "price": 329,
+        "sizes": [6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12]
+    },
+    {
+        "id": 44,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 03 'Hufquake'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/020586/1.jpg",
+        "price": 696,
+        "sizes": [8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13]
+    },
+    {
+        "id": 45,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 '07 'Wolf Grey Kumquat'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/326486/1.jpg",
+        "price": 185,
+        "sizes": [6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5]
+    },
+    {
+        "id": 46,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 Low 'Shibuya Halloween'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/159953/1.jpg",
+        "price": 166,
+        "sizes": [5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,12,12.5,13]
+    },
+    {
+        "id": 47,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 '07 LV8 'Overbranding'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/804341/1.jpg",
+        "price": 582,
+        "sizes": [7,7.5,8,8.5,9,9.5,10,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 48,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 LV8 'Go The Extra Smile",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/290713/1.jpg",
+        "price": 153,
+        "sizes": [11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 49,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 '07 LV8 'Oil Green'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/273525/1.jpg",
+        "price": 247,
+        "sizes": [6,7,7.5,8,8.5,9,9.5,10]
+    },
+    {
+        "id": 50,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 '07 'Somos Familia'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/339920/1.jpg",
+        "price": 125,
+        "sizes": [4,4.5,5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 51,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 Experimental 'Halloween'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/284792/1.jpg",
+        "price": 178,
+        "sizes": [4,4.5,5,5.5,6,6.5,7,7.5,8,8.5,9,10,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 52,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 React 'Black White'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/333545/1.jpg",
+        "price": 189,
+        "sizes": [6,6.5,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 53,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 Low Experimental 'Parcel Service'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/264023/1.jpg",
+        "price": 150,
+        "sizes": [4,4.5,5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 54,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 LV8 Utility PS 'Olive Green'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/165049/1.jpg",
+        "price": 189,
+        "sizes": [6,7,7.5,8,8.5,9,9.5,10,10.5,11]
+    },
+    {
+        "id": 55,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 React 'Naija'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/207272/1.jpg",
+        "price": 144,
+        "sizes": [4,4.5,5,5.5,6,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 56,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 '07 LV8 'Floral Pack'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/806881/1.jpg",
+        "price": 329,
+        "sizes": [4,4.5,5,5.5,6,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5]
+    },
+    {
+        "id": 57,
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "name": "Air Force 1 Fontanka 'Doernbecher 2022'",
+        "image": "https://cdn.flightclub.com/2200/TEMPLATE/310876/1.jpg",
+        "price": 144,
+        "sizes": [4,4.5,5,5.5,6,7,7.5,8,8.5,9,9.5,11.5,12,12.5,13,13.5]
+    }
+]

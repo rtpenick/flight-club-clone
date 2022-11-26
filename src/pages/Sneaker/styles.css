@@ -2,35 +2,73 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: left;
 }
 
+
+img{
+    margin-right: 2rem;
+}
 /* right side container */
 .Sneaker_rightContent_container{
     width: 450px;
+    margin-top: 5rem;
 }
-.Sneaker__buttons{
+
+.Sneaker_rightContent_title{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.Sneaker_rightContent_brand{
+    font-size: .8rem;
+    color: #868686;
+}
+
+.Sneaker_rightContent_btnSection{
+    margin-top: 1.2rem;
+    /* justify-content: space-evenly; */
+}
+
+.Sneaker_rightContent_btnSection_buttons{
     display: flex;
-    justify-content: space-evenly;
+    flex-direction: row;
 }
+
+
+.Sneaker_rightContent_btnSection button{
+    margin-top: 1rem;
+}
+
+.Sneaker_rightContent_btnSection p{
+    font-size: .7rem;
+    color: #868686;
+    margin-top: 1rem;
+}
+
 .Sneaker_aboutProduct{
     margin-top: 1rem;
-    text-align: left;
+    /* text-align: left; */
 }
 
 .Sneaker_description{
     color: #868686;
     font-size: .7em;
+    margin-top: 1rem;
 }
+
 
 .Sneaker_shipping{
     text-align: left;
 }
+
 button{
     padding: 10px 30px;
     outline: none;
     border: none;
     width: 200px;
 }
+
 .priceBtn{
     color: #fff;
     background-color: red;
@@ -39,6 +77,53 @@ button{
 
 .priceBtn:hover{
     background-color: rgb(230, 8, 8);
+}
+
+
+/* Sneaker sizes */
+.radios input[type=radio] {
+    display:none
+}
+
+.radios .radio {
+    /* background-color: #bdbdbd; */
+    border:.5px solid #d4d4d4;
+    font-size: 15px;
+    /* display: grid;
+    grid-template-columns: 3;
+    grid-template-rows: 3; */
+
+    flex-direction: column;
+    text-align: center;
+    width: 50px;
+    height: 25px;
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+}
+
+.radio{
+    display: grid;
+    place-items: center;
+    justify-content: center;
+}
+
+.radios{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 15px 0;
+    /* display: grid;
+    grid-template-columns: 3;
+    grid-template-rows: 3; */
+}
+.radios input[type=radio] {
+    display: none;
+}
+
+.radios input[type=radio]:checked + .radio {
+    /* background-color: #241009; */
+    border: 2px solid rgb(78, 78, 78);
 }
 
 
@@ -65,8 +150,6 @@ button{
     border-bottom: 3px solid rgb(207, 207, 207);
 
 }
-
-
 
 
 /* radio/checkbox */
