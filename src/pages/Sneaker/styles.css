@@ -5,10 +5,12 @@
     text-align: left;
 }
 
-
+/* Main image */
 img{
-    margin-right: 2rem;
+    margin-right: 3rem;
 }
+
+
 /* right side container */
 .Sneaker_rightContent_container{
     width: 450px;
@@ -132,6 +134,7 @@ button{
     display: flex;
     align-items: center;
     border-bottom: 1px solid rgb(207, 207, 207);
+    padding-bottom: 15px;
 }
 
 .checkoutDrawer_container{
@@ -143,6 +146,11 @@ button{
     font-weight: bold;
 }
 
+.checkoutDrawer_Size{
+    font-size: .8rem;
+    color: #868686;
+    margin-top: .4rem;
+}
 
 .checkoutDrawer_shippingBtns{
     margin-bottom: 15px;
@@ -150,6 +158,15 @@ button{
     border-bottom: 3px solid rgb(207, 207, 207);
 
 }
+
+.checkoutDrawer_checkoutBtn_container{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    border-top: 3px solid rgb(207, 207, 207);
+    padding: 10px 0;
+}
+
 
 
 /* radio/checkbox */

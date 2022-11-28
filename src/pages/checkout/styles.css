@@ -1,0 +1,106 @@
+.Checkout{
+    display: flex;
+    height: 100vh;
+    /* place-items: center; */
+    justify-content: center;
+    background-color: #F9F9F9;
+}
+
+
+/* Left container */
+.Checkout_left_container{
+    width: 450px;
+    margin-top: 2rem;
+    background-color: #FFFFFF;
+    margin-right: 1rem;
+    text-align: left;
+    padding: 2rem;
+
+}
+
+.Checkout_left_container_header{
+    padding: 10px 0;
+    border-bottom: 1px solid rgb(207, 207, 207);
+}
+
+
+.Checkout_left_container_checkoutGuest{
+    padding: 1.7rem 0;
+    border-bottom: 1px solid rgb(207, 207, 207);
+}
+
+
+.Checkout_left_container input{
+    width: 100%;
+    padding: .7rem 0;
+    margin: .5rem 0;
+}
+.Checkout_left_container button{
+    width: 100%;
+}
+
+
+
+
+/* Right Container */
+.Checkout_right_container{
+    width: 300px;
+    max-height: 400px;
+    margin-top: 2rem;
+    background-color: #FFFFFF;
+    text-align: left;
+    padding: 2rem;
+}
+
+.Checkout_right_container_header{
+    padding: 10px 0;
+    border-bottom: 1px solid rgb(207, 207, 207);
+}
+
+.Checkout_right_container_sneakerDetails{
+    display: flex;
+    border-bottom: 1px solid rgb(207, 207, 207);
+}
+
+.Checkout_right_container_sneakerPriceSum{
+    border-bottom: 1px solid rgb(207, 207, 207);
+
+}
+
+
+.Checkout_right_container_sneakerPriceSum div{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+}
+
+.Checkout_right_container_orderTotal{
+    display: flex;
+    justify-content: space-between;
+    margin: 1.1rem 0;
+}
+
+.smallgray{
+    font-size: .8rem;
+    color: #868686;
+}
+
+.smallblack{
+    font-size: .8rem;
+    /* font-weight: bold; */
+    color: black;
+}
+
+
+.Checkout_right_container button{
+    width: 100%;
+}
+
+
+button{
+    /* width: 100%; */
+}
+
+input{
+    
+}

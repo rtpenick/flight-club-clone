@@ -13,6 +13,7 @@ import Account from './pages/Account';
 import Apparel from './pages/Apparel';
 import Stores from './pages/Stores';
 import Sneaker from './pages/Sneaker'
+import Checkout from './pages/checkout'
 
 import ShoeStore from './components/ShoeStore';
 import SneakerNav from './components/SneakerNav';
@@ -27,6 +28,7 @@ const App = () => {
             <Route path="/Account" element={<Account/>}/>
             <Route path="/Sneaker/:name" element={<Sneaker/>}/>
             <Route path="/Apparel" element={<Apparel/>}/>
+            <Route path="/checkout" element={<Checkout/>}/>
         </Routes>
 
         {/*<ShoeStore/>*/}
